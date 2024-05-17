@@ -56,3 +56,13 @@ console.log('' ?? 'malumot topilmadi')// Masalan bizga bazadan malumot kelishi k
 console.log(null && 55);//null
 console.log(''|| 66 );//66
 console.log(''??77);//''
+
+// Switch
+// Switch operatori bir o'zgaruvchi berilgan bo'ladi va faqat shuni qiymatini tekshiradi
+let name = "Webrain academy"
+
+switch(name){
+    case 'Webrain academy':console.log(true);
+    break;
+    default:console.log(false);
+}
