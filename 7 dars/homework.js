@@ -28,3 +28,4 @@ let user2 = {
     }
 }
 user2.getName();
+// 3 masala
