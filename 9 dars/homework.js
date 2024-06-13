@@ -6,7 +6,9 @@ function check(str1,str2) {
 console.log(check('Davron Shermatov','avro'))
 // 2 masala
 // Javascript developer
-function getCount(str){
-    console.log(str.matchAll(/i/g))
+function getCount(strs){
+    for(str of strs){
+        
+    }
 }
 
